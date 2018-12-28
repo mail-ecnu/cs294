@@ -41,3 +41,13 @@ First, we will talk about Lec1,2 on 2019.1.2.
 - Lecture 27: Final Project Presentations: Part 1 (No Slides)
 - Lecture 28: Final Project Presentations: Part 2 (No Slides)
 
+## People
+
+people | account
+---|---
+陈宏俊 | [cloud-tifa](https://github.com/cloud-tifa)
+陈伟文 | [cww97](https://github.com/cww97)
+华  赟 | [hyyh28](https://github.com/hyyh28)
+盛俊杰 | [Jarvis](https://github.com/Jarvis-K)
+向王涛 | [maiff](https://github.com/maiff)
+
