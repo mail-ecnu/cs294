@@ -8,6 +8,9 @@ video on bilibili: https://www.bilibili.com/video/av20957290/?p=1
 
 youtube: https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
 
+homework: https://github.com/berkeleydeeprlcourse/homework/
+
+
 ## Plan
 
 First, we will talk about Lec1,2 on 2019.1.2. 
