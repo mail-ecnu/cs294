@@ -6,9 +6,13 @@ Course Link: http://rail.eecs.berkeley.edu/deeprlcourse/
 
 video on bilibili: https://www.bilibili.com/video/av20957290/?p=1
 
+youtube: https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
+
 ## Plan
 
 First, we will talk about Lec1,2 on 2019.1.2. 
+
+For the book about Reinforcement Learning, firstly we see it as a toolbook.
 
 ## Lecture Slides
 
